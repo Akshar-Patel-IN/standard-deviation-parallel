@@ -5,7 +5,7 @@
 * Technologies: C, Shared Memory, Locks, Pthreads
 * Tools: GCC, Atom, Ubuntu
 * Platform: Command-line
-* Techniques: Loop-Scheduling, 
+* Techniques: Loop-Scheduling, Block-Scheduling, Self-Scheduling
 * Lines of Code: 338
 * Month-Year: JUL-2010
 
