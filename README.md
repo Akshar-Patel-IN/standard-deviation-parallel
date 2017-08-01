@@ -3,7 +3,7 @@
 ### Parallel Implementation for calculating Standard Deviation using Different Parallel Techniques.
 
 * Technologies: C, Shared Memory, Locks, Pthreads
-* Tools: GCC, Atom, Ubuntu
+* Tools and OS: GCC, Atom, Ubuntu
 * Platform: Command-line
 * Techniques: Loop-Splitting, Block-Scheduling, Self-Scheduling
 * Lines of Code: 338
