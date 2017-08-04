@@ -7,7 +7,7 @@
 * Platform: Command-line
 * Techniques: Loop-Splitting, Block-Scheduling, Self-Scheduling
 * Lines of Code: 338
-* Month-Year: OCT-2016
+* Duration: 1 Week (OCT-2016)
 
 ### Comparison of All Techniques
 ![graph](graph.png)
